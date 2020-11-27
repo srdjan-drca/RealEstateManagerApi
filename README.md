@@ -1,2 +1,2 @@
-# WebApiDemo
-Test project to learn web api
+# RealEstateManagerApi
+Web API for real estate manager
